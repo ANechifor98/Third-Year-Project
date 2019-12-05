@@ -227,7 +227,7 @@ Various users will have different motivations to use the app.
   User|3|Type brand name in search bar
    ||4|Click Start Analysing
   Program|5|Display loading icon
-   |6|Display results when ready
+   ||6|Display results when ready
   User|7|View results
 
 **2.3.2 Select Time Range**
