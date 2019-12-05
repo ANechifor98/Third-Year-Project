@@ -49,9 +49,9 @@ System Architecture Diagram.....................................................
 
 Business Activity Model.................................................................................12
 
-Context Diagram...........................................................................................13
+Context Diagram..............................................................................................13
 
-Data Flow Diagram...........................................................................................13
+Data Flow Diagram........................................................................................13
 
 Logical Data Structure...................................................................................14
 
@@ -512,7 +512,7 @@ the screen, for example.
 
 <h2>5. High-Level Design Diagrams</h2>
 
-Business Activity Model
+**Business Activity Model**
 
 ![](media/image5.jpg)
 
@@ -524,13 +524,11 @@ Business Activity Model
 
 ![](https://raw.githubusercontent.com/ANechifor98/Images-for-Assignments/master/Data%20Flow%20Diagram.jpg)
 
-
 **Logical Data Structure**
 
-![](media/image7.jpg){width="4.020833333333333in"
-height="3.2395833333333335in"}
+![](media/image7.jpg)
 
-6.1 Preliminary Schedule
+**6.1 Preliminary Schedule**
 
 ![preliminary schedule](https://raw.githubusercontent.com/ANechifor98/Images-for-Assignments/master/Capture.PNG)
 
