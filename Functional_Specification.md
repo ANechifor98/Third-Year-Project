@@ -252,13 +252,11 @@ Various users will have different motivations to use the app.
 
 **Scenario \#3**|**User Objective**: Select sub-heading from navbar 
 ----------------|-----------------------------------------------------------------
-
-||**Precondition:** A search must be performed
+|**Precondition:** A search must be performed
 
 
 **Source**|**Step**|**Action** 
 ----------|--------|--------------
-
 User|1|Click on sub-heading e.g. General    
 program|2| Highlight sub-heading that was clicked
 ||3|Switch from previous sub-heading to current
