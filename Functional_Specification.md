@@ -1,4 +1,4 @@
-Page Content                                                                                              
+Page Content                                                                                              Page Number
  
 1\. Introduction
 
@@ -49,9 +49,9 @@ System Architecture Diagram.....................................................
 
 Business Activity Model.................................................................................12
 
-Context Diagram..............................................................................................13
+Context Diagram...........................................................................................13
 
-Data Flow Diagram.........................................................................................13
+Data Flow Diagram...........................................................................................13
 
 Logical Data Structure...................................................................................14
 
@@ -464,7 +464,7 @@ forced to only allow one person at a time to use it.
 efficiency of the brand analysis will factor how much of the load must
 be handled (See FR 3.1.1).
 
-4\. System Architecture
+<h2>4. System Architecture</h2>
 
 **[4.1 General System Architecture of the Project]{.underline}**
 
@@ -511,7 +511,7 @@ customized. The canvas is used to render the widgets and they then
 appear on the screen and access to events which is when a user touches
 the screen, for example.
 
-5\. High-Level Design Diagrams, DFD, LDS
+<h2>5. High-Level Design Diagrams</h2>
 
 Business Activity Model
 
