@@ -63,7 +63,7 @@ Gantt Charts....................................................................
 
 Appendices....................................................................................................16
 
-<h2>1\. Introduction</h2>
+<h2>1. Introduction</h2>
 
 **[1.1 Overview]{.underline}**
 
@@ -158,7 +158,7 @@ application like this will be a boon to any business organization.
 -   Client-Server Model - This describes how a server provides resources
     > and services to one or more users.
 
-2\. General Description
+<h2>2. General Description</h2>
 
 **[2.1 Product/System Functions]**
 
@@ -274,7 +274,7 @@ User|5|View and scroll through results
     > use that system for free so there is a limit on the processes and
     > services that can be used.
 
-3\. Functional Requirements
+<h2>3. Functional Requirements</h2>
 
 **3.1.1 Analysing A Brand**
 
