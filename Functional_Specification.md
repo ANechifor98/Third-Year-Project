@@ -179,7 +179,7 @@ application like this will be a boon to any business organization.
 
 2\. General Description
 
-**[2.1 Product/System Functions]{.underline}**
+**[2.1 Product/System Functions]**
 
 **App Usability Functions**
 
