@@ -536,7 +536,7 @@ height="3.2395833333333335in"}
 
 6.1 Preliminary Schedule
 
-![](media/image1.png){width="6.270833333333333in"
+![](https://raw.githubusercontent.com/ANechifor98/Images-for-Assignments/master/Capture.PNG){width="6.270833333333333in"
 height="3.5972222222222223in"}
 
 <h2>7. Appendices</h2>
