@@ -219,6 +219,7 @@ Various users will have different motivations to use the app.
 
   **Scenario \#1**|**User Objective**: Search a brand and see the results
   ----------------|--------------------------------------------------------------------
+  
   **Source**|**Step**|**Action**|
    ---------|--------|----------|---------
   User               1          Open app
