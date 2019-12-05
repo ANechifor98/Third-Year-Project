@@ -35,15 +35,15 @@ Constraints.....................................................................
 
 3.1.6 Sending Aspect Focused Results To User......................................8
 
-3.2.1 Categorising Results With Navbar..................................................8
+3.2.1 Categorising Results With Navbar...................................................8
 
-3.3.1 Fast Performance...................................................................................9
+3.3.1 Fast Performance....................................................................................9
 
-3.3.2 App Must Handle High Traffic Loads............................................................9
+3.3.2 App Must Handle High Traffic Loads............................................9
 
 4\. System Architecture
 
-System Architecture Diagram...................................................................................10
+System Architecture Diagram.................................................................10
 
 5\. High-Level Design Diagrams, DFD, LDS
 
@@ -221,7 +221,7 @@ Various users will have different motivations to use the app.
   ----------------|--------------------------------------------------------------------
   **Source**|**Step**|**Action**|
    ---------|--------|----------|---------
-  User           |    1     |     Open app
+  User               1          Open app
   program            2          Display start screen
   User               3          Type brand name in search bar
                      4          Click Start Analysing
