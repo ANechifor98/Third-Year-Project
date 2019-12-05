@@ -180,7 +180,7 @@ application like this will be a boon to any business organization.
     heading, depending on which set of data they wish to view.
 
 -   The user should be able to comprehend the presented data and that
-    data should be clear and concise and *[not]{.underline}* open to
+    data should be clear and concise and **not** open to
     interpretation.
 
 -   The user is able to select a time frame which displays the analysed
@@ -553,21 +553,21 @@ the screen, for example.
 <h2>7. Appendices</h2>
 
 Diagramming tool:
-[[https://www.draw.io/]{.underline}](https://www.draw.io/)
+https://www.draw.io/
 
 Gantt Chart tool:
-[[https://www.google.com/sheets]{.underline}](https://www.google.com/sheets)
+https://www.google.com/sheets
 
 Facebook Graph API:
-[[https://developers.facebook.com/docs/graph-api/]{.underline}](https://developers.facebook.com/docs/graph-api/)
+https://developers.facebook.com/docs/graph-api/
 
 Google Trends:
-[[https://trends.google.com/trends]{.underline}](https://trends.google.com/trends)
+https://trends.google.com/trends
 
 Firebase Cloud Functions:
-[[https://firebase.google.com/docs/functions]{.underline}](https://firebase.google.com/docs/functions)
+https://firebase.google.com/docs/functions
 
 Scikit-Learn Machine:
-https://scikit-learn.org/stable/(https://scikit-learn.org/stable/)
+https://scikit-learn.org/stable/
 
 Flutter: https://flutter.dev/
