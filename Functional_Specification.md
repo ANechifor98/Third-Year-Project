@@ -225,7 +225,7 @@ Various users will have different motivations to use the app.
   User|1|Open app
   program|2|Display start screen
   User|3|Type brand name in search bar
-   |4|Click Start Analysing
+   ||4|Click Start Analysing
   Program|5|Display loading icon
    |6|Display results when ready
   User|7|View results
