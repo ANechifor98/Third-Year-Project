@@ -136,27 +136,27 @@ application like this will be a boon to any business organization.
     an application can be stored.
 
 -   Facebook Graph API - This is a low-level API that apps can use to
-    > programmatically call for data like online posts and comments from
-    > the Facebook website.
+    programmatically call for data like online posts and comments from
+    the Facebook website.
 
 -   Google Trends - This is a website that analyzes the popularity of
-    > top search queries from Google Search.
+    top search queries from Google Search.
 
 -   Scikit-Learn Machine - This is a software machine learning library
-    > for the Python programming language. Contains built-in features
-    > that can help with performing sentiment analysis.
+    for the Python programming language. Contains built-in features
+    that can help with performing sentiment analysis.
 
 -   Machine Learning: Machine learning is a type of artificial
-    > intelligence that gives a system the ability to learn and improve
-    > the task which the system is designed to do.
+    intelligence that gives a system the ability to learn and improve
+    the task which the system is designed to do.
 
 -   Flutter - An app development SDK. This allows us to easily create
-    > and maintain the application.
+    and maintain the application.
 
 -   SDK - Software development kit.
 
 -   Client-Server Model - This describes how a server provides resources
-    > and services to one or more users.
+    and services to one or more users.
 
 <h2>2. General Description</h2>
 
@@ -167,27 +167,27 @@ application like this will be a boon to any business organization.
 -   User can input a popular brand name.
 
 -   User can then click analyse and be presented with a set of analysed
-    > data.
+    data.
 
 -   This analysed data is categorised under appropriately named
-    > headings.
+    headings.
 
 -   If the app cannot accept an input brand name (due to not enough data
-    > that it can be analysed against, the company may not be
-    > english-speaking etc.) it must let the user know.
+    that it can be analysed against, the company may not be
+    english-speaking etc.) it must let the user know.
 
 -   The user is able to navigate headings by simply clicking on each
-    > heading, depending on which set of data they wish to view.
+    heading, depending on which set of data they wish to view.
 
 -   The user should be able to comprehend the presented data and that
-    > data should be clear and concise and *[not]{.underline}* open to
-    > interpretation.
+    data should be clear and concise and *[not]{.underline}* open to
+    interpretation.
 
 -   The user is able to select a time frame which displays the analysed
-    > data in correlation to this timeframe.
+    data in correlation to this timeframe.
 
 -   The user is able to use scrolling should they wish to not use the
-    > headings as a navigability option.
+    headings as a navigability option.
 
 -   All navigability functions of the app should be fast and seamless.
 
