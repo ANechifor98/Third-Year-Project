@@ -111,29 +111,29 @@ application like this will be a boon to any business organization.
 **1.3 Glossary**
 
 -   API - Application Programming Interface. It allows for data access
-    > to a desired system.
+    to a desired system.
 
 -   UI - User Interface. This is the means by which the user and the app
-    > interact. It allows the user to input the brand and receive / view
-    > the data about a brand.
+    interact. It allows the user to input the brand and receive / view
+    the data about a brand.
 
 -   Frontend - The part of the app with which the user interacts
-    > directly.
+    directly.
 
 -   Backend - The part of the app that is not directly accessed by the
-    > user. This will be responsible for receiving, storing and
-    > manipulating data. The results of which will be sent back to the
-    > frontend.
+    user. This will be responsible for receiving, storing and
+    manipulating data. The results of which will be sent back to the
+    frontend.
 
 -   GDPR - This is a set of laws that sets guidelines for the collection
-    > and processing of personal information from people who live within
-    > the European Union.
+    and processing of personal information from people who live within
+    the European Union.
 
 -   Sentiment Analysis - This is the process of identifying and
-    > extracting information that relates to the emotion within a text.
+    extracting information that relates to the emotion within a text.
 
 -   Firebase Cloud Functions - This is a platform where the backend of
-    > an application can be stored.
+    an application can be stored.
 
 -   Facebook Graph API - This is a low-level API that apps can use to
     > programmatically call for data like online posts and comments from
