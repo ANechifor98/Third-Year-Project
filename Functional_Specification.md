@@ -528,8 +528,6 @@ height="3.9583333333333335in"}
 ![](media/image3.jpg){width="6.270833333333333in"
 height="6.458333333333333in"}
 
-**[Scki-kit learn should be renamed analysis manager *(okay job done)
-*]{.underline}**
 
 **Logical Data Structure**
 
