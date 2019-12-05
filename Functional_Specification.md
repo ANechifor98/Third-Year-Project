@@ -1,4 +1,4 @@
-Page Content                                                                                              
+Page Content                                                                                              Page Number
  
 1\. Introduction
 
@@ -49,9 +49,9 @@ System Architecture Diagram.....................................................
 
 Business Activity Model.................................................................................12
 
-Context Diagram..............................................................................................13
+Context Diagram...........................................................................................13
 
-Data Flow Diagram.........................................................................................13
+Data Flow Diagram...........................................................................................13
 
 Logical Data Structure...................................................................................14
 
@@ -65,7 +65,7 @@ Appendices......................................................................
 
 <h2>1. Introduction</h2>
 
-**[1.1 Overview]**
+**[1.1 Overview]{.underline}**
 
 The app to be developed by the team will be called the "Brand Analyser".
 At the moment, there is no dedicated online service that provides the
@@ -90,7 +90,7 @@ intuitive, user-friendly interface that any of the application's users
 can easily navigate in order to achieve the main goal will be also be
 vitally important for the app to function.
 
-**[1.2 Business Context]**
+**[1.2 Business Context]{.underline}**
 
 Within any business setting, the application can function as a way of
 analysing the public sentiment of other brands or businesses in the
@@ -108,7 +108,7 @@ business context. The volatile and fast-paced nature of markets and
 businesses require quick responses and action from companies. An
 application like this will be a boon to any business organization.
 
-**[1.3 Glossary]**
+**[1.3 Glossary]{.underline}**
 
 -   API - Application Programming Interface. It allows for data access
     > to a desired system.
@@ -191,7 +191,7 @@ application like this will be a boon to any business organization.
 
 -   All navigability functions of the app should be fast and seamless.
 
-**[2.2 User Characteristics and Objectives]**
+**[2.2 User Characteristics and Objectives]{.underline}**
 
 In general, anyone with access to a mobile device should be easily able
 to access and use the app. In terms of the UI there are various elements
@@ -213,7 +213,7 @@ also.
 
 Various users will have different motivations to use the app.
 
-**[2.3 Operational Scenarios]**
+**[2.3 Operational Scenarios]{.underline}**
 
 **2.3.1 Searching A Brand Name:**
 
@@ -264,7 +264,7 @@ program|2| Highlight sub-heading that was clicked
 User|5|View and scroll through results
 
 
-**[2.4 Constraints - Andrew]**
+**[2.4 Constraints - Andrew]{.underline}**
 
 -   Compatibility - The app will be developed to be compatible with both
     > Android and iOS devices which will require additional development
@@ -464,9 +464,9 @@ forced to only allow one person at a time to use it.
 efficiency of the brand analysis will factor how much of the load must
 be handled (See FR 3.1.1).
 
-4\. System Architecture
+<h2>4. System Architecture</h2>
 
-**[4.1 General System Architecture of the Project]**
+**[4.1 General System Architecture of the Project]{.underline}**
 
 ![](media/image4.png){width="5.760416666666667in"
 height="2.7708333333333335in"}
@@ -511,7 +511,7 @@ customized. The canvas is used to render the widgets and they then
 appear on the screen and access to events which is when a user touches
 the screen, for example.
 
-5\. High-Level Design Diagrams, DFD, LDS
+<h2>5. High-Level Design Diagrams</h2>
 
 Business Activity Model
 
@@ -528,6 +528,9 @@ height="3.9583333333333335in"}
 ![](media/image3.jpg){width="6.270833333333333in"
 height="6.458333333333333in"}
 
+**[Scki-kit learn should be renamed analysis manager *(okay job done)
+*]{.underline}**
+
 **Logical Data Structure**
 
 ![](media/image7.jpg){width="4.020833333333333in"
@@ -538,7 +541,7 @@ height="3.2395833333333335in"}
 ![](media/image1.png){width="6.270833333333333in"
 height="3.5972222222222223in"}
 
-7\. Appendices
+<h2>7. Appendices</h2>
 
 Diagramming tool:
 [[https://www.draw.io/]{.underline}](https://www.draw.io/)
