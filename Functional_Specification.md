@@ -33,17 +33,17 @@ Constraints.....................................................................
 
 3.1.5 Sending Results Of System To User..................................................7
 
-3.1.6 Sending Aspect Focused Results To User.......................................8
+3.1.6 Sending Aspect Focused Results To User......................................8
 
-3.2.1 Categorising Results With Navbar....................................................8
+3.2.1 Categorising Results With Navbar...................................................8
 
-3.3.1 Fast Performance.....................................................................................9
+3.3.1 Fast Performance....................................................................................9
 
-3.3.2 App Must Handle High Traffic Loads...............................................9
+3.3.2 App Must Handle High Traffic Loads..............................................9
 
 4\. System Architecture
 
-System Architecture Diagram.....................................................................10
+System Architecture Diagram...................................................................10
 
 5\. High-Level Design Diagrams, DFD, LDS
 
@@ -51,17 +51,17 @@ Business Activity Model.........................................................
 
 Context Diagram...............................................................................................13
 
-Data Flow Diagram..........................................................................................13
+Data Flow Diagram.............................................................................................13
 
-Logical Data Structure....................................................................................14
+Logical Data Structure........................................................................................14
 
 6\. Preliminary Schedule
 
-Gantt Charts.......................................................................................................15
+Gantt Charts..................................................................................................15
 
 7\. Appendices
 
-Appendices.........................................................................................................16
+Appendices....................................................................................................16
 
 1\. Introduction
 
@@ -250,28 +250,21 @@ Various users will have different motivations to use the app.
 
 **2.3.3 Select Navbar Sub-Heading**
 
-+------------------+----------+--------------------------------------+
-| **Scenario \#3** |          | **User Objective**: Select           |
-|                  |          | sub-heading from navbar              |
-|                  |          |                                      |
-|                  |          | **Precondition:** A search must be   |
-|                  |          | performed                            |
-+==================+==========+======================================+
-| **Source**       | **Step** | **Action**                           |
-+------------------+----------+--------------------------------------+
-| User             | 1        | Click on sub-heading e.g. General    |
-+------------------+----------+--------------------------------------+
-| program          | 2        | Highlight sub-heading that was       |
-|                  |          | clicked                              |
-+------------------+----------+--------------------------------------+
-|                  | 3        | Switch from previous sub-heading to  |
-|                  |          | current                              |
-+------------------+----------+--------------------------------------+
-|                  | 4        | Now show selected sub-heading's      |
-|                  |          | results                              |
-+------------------+----------+--------------------------------------+
-| User             | 5        | View and scroll through results      |
-+------------------+----------+--------------------------------------+
+**Scenario \#3**|**User Objective**: Select sub-heading from navbar 
+----------------|-----------------------------------------------------------------
+
+|**Precondition:** A search must be performed
+                           |
+
+**Source**|**Step**|**Action** 
+----------|--------|--------------
+
+User|1|Click on sub-heading e.g. General    
+program|2| Highlight sub-heading that was clicked
+||3|Switch from previous sub-heading to current
+||4|Now show selected sub-heading's results
+User|5|View and scroll through results
+
 
 **[2.4 Constraints - Andrew]{.underline}**
 
