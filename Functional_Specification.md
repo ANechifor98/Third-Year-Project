@@ -253,7 +253,7 @@ Various users will have different motivations to use the app.
 **Scenario \#3**|**User Objective**: Select sub-heading from navbar 
 ----------------|-----------------------------------------------------------------
 
-|**Precondition:** A search must be performed
+||**Precondition:** A search must be performed
 
 
 **Source**|**Step**|**Action** 
