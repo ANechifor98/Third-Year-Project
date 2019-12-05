@@ -221,7 +221,7 @@ Various users will have different motivations to use the app.
   ----------------|--------------------------------------------------------------------
   **Source**|**Step**|**Action**|
    ---------|--------|----------|---------
-  User               1          Open app
+  User  |             1     |     Open app
   program            2          Display start screen
   User               3          Type brand name in search bar
                      4          Click Start Analysing
