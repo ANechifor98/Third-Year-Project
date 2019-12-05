@@ -468,8 +468,7 @@ be handled (See FR 3.1.1).
 
 **[4.1 General System Architecture of the Project]{.underline}**
 
-![](media/image4.png){width="5.760416666666667in"
-height="2.7708333333333335in"}
+![](https://raw.githubusercontent.com/ANechifor98/Images-for-Assignments/master/Architecture.jpg)
 
 **Mobile App**
 
@@ -495,7 +494,7 @@ Gathers analytical data on a particular brand or business.
 
 **Widgets in Flutter**
 
-![](media/image6.jpg){width="3.1458333333333335in" height="2.9375in"}
+![](media/image6.jpg)
 
 In the past or with the likes of React Native, in order to access
 platform widgets in the native realm it had to go through a "bridge"
@@ -515,18 +514,15 @@ the screen, for example.
 
 Business Activity Model
 
-![](media/image5.jpg){width="6.270833333333333in"
-height="6.569444444444445in"}
+![](media/image5.jpg)
 
 **[Context Diagram]{.underline}**
 
-![](media/image2.jpg){width="6.270833333333333in"
-height="3.9583333333333335in"}
+![](https://raw.githubusercontent.com/ANechifor98/Images-for-Assignments/master/context_diagram.jpg)
 
-**[Data Flow Diagram -\> Andrew]{.underline}**
+**[Data Flow Diagram]**
 
-![](media/image3.jpg){width="6.270833333333333in"
-height="6.458333333333333in"}
+![](https://raw.githubusercontent.com/ANechifor98/Images-for-Assignments/master/Data%20Flow%20Diagram.jpg)
 
 
 **Logical Data Structure**
