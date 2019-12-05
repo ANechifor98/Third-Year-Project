@@ -220,8 +220,8 @@ Various users will have different motivations to use the app.
   **Scenario \#1**|**User Objective**: Search a brand and see the results
   ----------------|--------------------------------------------------------------------
   
-  **Source**|**Step**|**Action**|
-   ---------|--------|----------|---------
+  **Source**|**Step**|**Action**
+   ---------|--------|-------------------
   User|1|Open app
   program            2          Display start screen
   User               3          Type brand name in search bar
