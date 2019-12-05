@@ -300,6 +300,8 @@ frontend) and the numerous systems that perform the brand analysis (the
 backend) must be able to work together in tandem. If not implemented
 correctly, the app will not function at all.
 
+
+
 **3.1.2 Acquiring Online Posts For Brand Analysis**
 
 **Description -** When the system calls for an analysis to be performed
@@ -318,6 +320,8 @@ calls required.
 **Dependencies with other requirements -** The user must allow internet
 access to the application. A call has to be made for the online posts in
 order to analyse the brand (See FR 3.1.1).
+
+
 
 **3.1.3 Select Time Range**
 
@@ -342,6 +346,8 @@ more satisfiable.
 **Dependencies with other requirements** - The Facebook Graph API must
 be able to fetch social media posts (See FR 3.1.2).
 
+
+
 **3.1.4 Performing Sentiment Analysis On Posts**
 
 **Description** - The programs that run the analysis on the opinionated
@@ -363,6 +369,8 @@ negation, sarcasm, double negation etcetera
 social media posts for the sentiment analysis to be performed (See FR
 3.1.2).
 
+
+
 **3.1.5 Sending Results Of System To User**
 
 **Description -** The user should be able to see the general results of
@@ -381,6 +389,8 @@ of the project).
 **Dependencies with other requirements -** The system must be able to
 perform sentiment analysis in order for the results to be sent to the
 user (See FR 3.1.4).
+
+
 
 **3.1.6 Sending Aspect Focused Results To User**
 
@@ -401,6 +411,8 @@ of the project).
 **Dependencies with other requirements -** The system must be able to
 perform sentiment analysis in order for the results to be sent to the
 user (See FR 3.1.4).
+
+
 
 **3.2.1 Categorising Results with Navbar**
 
@@ -426,6 +438,8 @@ producing any side effects.
 **Dependencies with other requirements -** The app must be able to send
 the user the results acquired (See 3.1.5).
 
+
+
 **3.3.1 Fast Performance**
 
 **Description -** When the user taps Start Analysis, they must wait
@@ -445,6 +459,8 @@ enough, then this will affect the speed of the brand analysis.
 **Dependencies with other requirements -** The ability to perform an
 analysis of a brand (See FR 3.1.1).
 
+
+
 **3.3.2 App Must Handle High Traffic Loads**
 
 **Description -** If there are multiple users using the app, the
@@ -463,6 +479,8 @@ forced to only allow one person at a time to use it.
 **Dependencies with other requirements -** The functionality and
 efficiency of the brand analysis will factor how much of the load must
 be handled (See FR 3.1.1).
+
+
 
 <h2>4. System Architecture</h2>
 
