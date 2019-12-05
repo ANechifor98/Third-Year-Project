@@ -65,7 +65,7 @@ Appendices......................................................................
 
 <h2>1. Introduction</h2>
 
-**[1.1 Overview]**
+**1.1 Overview**
 
 The app to be developed by the team will be called the "Brand Analyser".
 At the moment, there is no dedicated online service that provides the
@@ -90,7 +90,7 @@ intuitive, user-friendly interface that any of the application's users
 can easily navigate in order to achieve the main goal will be also be
 vitally important for the app to function.
 
-**[1.2 Business Context]{.underline}**
+**1.2 Business Context**
 
 Within any business setting, the application can function as a way of
 analysing the public sentiment of other brands or businesses in the
@@ -108,7 +108,7 @@ business context. The volatile and fast-paced nature of markets and
 businesses require quick responses and action from companies. An
 application like this will be a boon to any business organization.
 
-**[1.3 Glossary]{.underline}**
+**1.3 Glossary**
 
 -   API - Application Programming Interface. It allows for data access
     > to a desired system.
@@ -160,7 +160,7 @@ application like this will be a boon to any business organization.
 
 <h2>2. General Description</h2>
 
-**[2.1 Product/System Functions]**
+**2.1 Product/System Functions**
 
 **App Usability Functions**
 
@@ -191,7 +191,7 @@ application like this will be a boon to any business organization.
 
 -   All navigability functions of the app should be fast and seamless.
 
-**[2.2 User Characteristics and Objectives]{.underline}**
+**2.2 User Characteristics and Objectives**
 
 In general, anyone with access to a mobile device should be easily able
 to access and use the app. In terms of the UI there are various elements
@@ -213,7 +213,7 @@ also.
 
 Various users will have different motivations to use the app.
 
-**[2.3 Operational Scenarios]{.underline}**
+**2.3 Operational Scenarios**
 
 **2.3.1 Searching A Brand Name:**
 
@@ -264,7 +264,7 @@ program|2| Highlight sub-heading that was clicked
 User|5|View and scroll through results
 
 
-**[2.4 Constraints - Andrew]{.underline}**
+**2.4 Constraints**
 
 -   Compatibility - The app will be developed to be compatible with both
     > Android and iOS devices which will require additional development
@@ -484,7 +484,7 @@ be handled (See FR 3.1.1).
 
 <h2>4. System Architecture</h2>
 
-**[4.1 General System Architecture of the Project]{.underline}**
+**4.1 General System Architecture of the Project**
 
 ![](https://raw.githubusercontent.com/ANechifor98/Images-for-Assignments/master/Architecture.jpg)
 
