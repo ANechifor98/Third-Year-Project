@@ -236,8 +236,8 @@ Various users will have different motivations to use the app.
 
 **2.3.1 Searching A Brand Name:**
 
-  **Scenario \#1**              **User Objective**: Search a brand and see the results
-  ------------------ ---------- --------------------------------------------------------
+  **Scenario \#1**|**User Objective**: Search a brand and see the results
+  ----------------|--------------------------------------------------------------------
   **Source**         **Step**   **Action**
   User               1          Open app
   program            2          Display start screen
