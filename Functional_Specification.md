@@ -534,11 +534,11 @@ the screen, for example.
 
 ![](media/image5.jpg)
 
-**[Context Diagram]{.underline}**
+**Context Diagram**
 
 ![](https://raw.githubusercontent.com/ANechifor98/Images-for-Assignments/master/context_diagram.jpg)
 
-**[Data Flow Diagram]**
+**Data Flow Diagram**
 
 ![](https://raw.githubusercontent.com/ANechifor98/Images-for-Assignments/master/Data%20Flow%20Diagram.jpg)
 
