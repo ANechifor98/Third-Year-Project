@@ -65,7 +65,7 @@ Appendices......................................................................
 
 <h2>1. Introduction</h2>
 
-**[1.1 Overview]{.underline}**
+**[1.1 Overview]**
 
 The app to be developed by the team will be called the "Brand Analyser".
 At the moment, there is no dedicated online service that provides the
