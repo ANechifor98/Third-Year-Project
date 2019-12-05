@@ -245,7 +245,7 @@ Various users will have different motivations to use the app.
   User|6|Select date \#2
   ||7|Click Start Analyse
   Program|8|Display loading icon
-  |9|Display results when ready
+  ||9|Display results when ready
   User|10|View results now within selected dates
 
 **2.3.3 Select Navbar Sub-Heading**
