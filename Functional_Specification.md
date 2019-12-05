@@ -232,17 +232,19 @@ Various users will have different motivations to use the app.
 
 **2.3.2 Select Time Range**
 
-  **Scenario \#2**              **User Objective**: View results within chosen time
-  ------------------ ---------- -----------------------------------------------------
-  **Source**         **Step**   **Action**
-  User               1          Select dropdown menu \#1
-  Program            2          Display date \#1
-  User               3          Select date \#1
-                     4          Select dropdown menu \#2
-  Program            5          Display date \#2
-  User               6          Select date \#2
-                     7          Click Start Analyse
-  Program            8          Display loading icon
+  **Scenario \#2**|**User Objective**: View results within chosen time
+  ----------------|-----------------------------------------------------------------
+  
+  **Source**|**Step**|**Action**
+  ----------|--------|--------------
+  User|1|Select dropdown menu \#1
+  Program|2|Display date \#1
+  User|3|Select date \#1
+  ||4|Select dropdown menu \#2
+  Program|5|Display date \#2
+  User|6|Select date \#2
+  ||7|Click Start Analyse
+  Program|8|Display loading icon
                      9          Display results when ready
   User               10         View results now within selected dates
 
