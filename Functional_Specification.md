@@ -25,19 +25,19 @@ Constraints.....................................................................
 
 3.1.1 Analysing A Brand....................................................................................5
 
-3.1.2 Acquiring Online Posts For Brand Analysis....................................6
+3.1.2 Acquiring Online Posts For Brand Analysis...................................6
 
 3.1.3 Select Time Range...................................................................................6
 
-3.1.4 Performing Sentiment Analysis On Posts\......................................6
+3.1.4 Performing Sentiment Analysis On Posts\..........................................................6
 
-3.1.5 Sending Results Of System To User...................................................7
+3.1.5 Sending Results Of System To User..............................................................7
 
-3.1.6 Sending Aspect Focused Results To User.......................................8
+3.1.6 Sending Aspect Focused Results To User..........................................................8
 
-3.2.1 Categorising Results With Navbar.................................................8
+3.2.1 Categorising Results With Navbar..............................................................8
 
-3.3.1 Fast Performance.................................................................................9
+3.3.1 Fast Performance...............................................................................9
 
 3.3.2 App Must Handle High Traffic Loads...........................................................9
 
@@ -219,8 +219,9 @@ Various users will have different motivations to use the app.
 
   **Scenario \#1**|**User Objective**: Search a brand and see the results
   ----------------|--------------------------------------------------------------------
-  **Source**|**Step**|**Action**|
-   ---------|--------|----------|---------
+  
+  **Source**|**Step**|**Action**
+   ---------|--------|-------------------
   User               1          Open app
   program            2          Display start screen
   User               3          Type brand name in search bar
