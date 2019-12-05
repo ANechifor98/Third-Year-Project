@@ -267,12 +267,12 @@ User|5|View and scroll through results
 **2.4 Constraints**
 
 -   Compatibility - The app will be developed to be compatible with both
-    > Android and iOS devices which will require additional development
-    > and testing effort.
+    Android and iOS devices which will require additional development
+    and testing effort.
 
 -   Cost - The Firebase Cloud Functions Spark Plan is the only way to
-    > use that system for free so there is a limit on the processes and
-    > services that can be used.
+    use that system for free so there is a limit on the processes and
+    services that can be used.
 
 <h2>3. Functional Requirements</h2>
 
