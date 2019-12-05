@@ -14,7 +14,7 @@ Glossary........................................................................
 
 2.1 Product / System Functions.....................................................................2
 
-2.2 User Characteristics and Objectives.............................................................3
+2.2 User Characteristics and Objectives........................................................3
 
 2.3 Operational Scenarios..............................................................................3
 
@@ -220,7 +220,8 @@ Various users will have different motivations to use the app.
   **Scenario \#1**|**User Objective**: Search a brand and see the results
   ----------------|--------------------------------------------------------------------
   **Source**|**Step**|**Action**
-  User|1 |Open app
+   ---------|--------|-------------------
+  User               1          Open app
   program            2          Display start screen
   User               3          Type brand name in search bar
                      4          Click Start Analysing
