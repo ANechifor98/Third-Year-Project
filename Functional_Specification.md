@@ -254,7 +254,7 @@ Various users will have different motivations to use the app.
 ----------------|-----------------------------------------------------------------
 
 |**Precondition:** A search must be performed
-                           |
+
 
 **Source**|**Step**|**Action** 
 ----------|--------|--------------
