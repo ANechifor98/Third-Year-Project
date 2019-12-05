@@ -568,4 +568,6 @@ Firebase Cloud Functions:
 [[https://firebase.google.com/docs/functions]{.underline}](https://firebase.google.com/docs/functions)
 
 Scikit-Learn Machine:
-[[https://scikit-learn.org/stable/]{.underline}](https://scikit-learn.org/stable/)
+https://scikit-learn.org/stable/(https://scikit-learn.org/stable/)
+
+Flutter: https://flutter.dev/
