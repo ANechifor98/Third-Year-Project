@@ -209,8 +209,6 @@ dependent on satisfying these. It should provide an appropriate colour
 palette, contrasts and a screenwriter should be compatible with the app
 also.
 
-\#note to self say what the issues are and how we can satisfy them
-
 Various users will have different motivations to use the app.
 
 **2.3 Operational Scenarios**
