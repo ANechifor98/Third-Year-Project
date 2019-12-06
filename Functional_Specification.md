@@ -408,9 +408,7 @@ of the project).
 perform sentiment analysis in order for the results to be sent to the
 user (See FR 3.1.4).
 
-
-
-**3.2.1 Categorising Results with Navbar**
+**3.1.7 Categorising Results with Navbar**
 
 **Description -** The user clicks Start Analysis. They are taken to a
 loading screen and once the analysis is complete, the results of the
@@ -435,8 +433,7 @@ producing any side effects.
 the user the results acquired (See 3.1.5).
 
 
-
-**3.3.1 Fast Performance**
+**3.1.8 Fast Performance**
 
 **Description -** When the user taps Start Analysis, they must wait
 through a loading screen in order to receive the data from the brand
@@ -457,7 +454,7 @@ analysis of a brand (See FR 3.1.1).
 
 
 
-**3.3.2 App Must Handle High Traffic Loads**
+**3.1.9 App Must Handle High Traffic Loads**
 
 **Description -** If there are multiple users using the app, the
 application must be able to handle the numerous calls and requests that
