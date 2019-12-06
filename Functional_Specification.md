@@ -506,23 +506,7 @@ posts. Data such as comments, page information etc.
 
 Gathers analytical data on a particular brand or business.
 
-**Widgets in Flutter**
 
-![](media/image6.jpg)
-
-In the past or with the likes of React Native, in order to access
-platform widgets in the native realm it had to go through a "bridge"
-from the Javascript realm. This bridge essentially allows the Javascript
-realm to communicate with the platform widgets. However the problem lies
-in the fact that switching between realms is expensive. In Flutter, this
-is not an issue because it uses Dart, a compiled programming language.
-It is compiled "ahead of time" into native code on multiple platforms
-and hence switching between realms is not needed. Platform widgets are
-not used in Flutter, instead it has its own. Flutter lifts the widgets
-and rendering from the platform into the app which means they can be
-customized. The canvas is used to render the widgets and they then
-appear on the screen and access to events which is when a user touches
-the screen, for example.
 
 <h2>5. High-Level Design Diagrams</h2>
 
