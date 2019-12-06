@@ -508,6 +508,7 @@ Gathers analytical data on a particular brand or business.
 Widgets are the basic building-blocks in Flutter. The entire app and UI design is composed of these. The widgets will have to be tested appropriately to ensure that they work and perform the way that they are expected to. A widget test is performed first to ensure a widget works in conjunction with user scenarios. During integration testing, then the entirety of the app is tested, ensuring all widgets perform correctly together without any side effects. 
 
 **Tesing the Brand Analysis System**
+
 Any testing performed on the sentiment analysis system will be performed using the pytest framework. Unit testing like this will assist us in debugging the code during every iteration in the development of the code. 
 
 <h2>5. High-Level Design Diagrams</h2>
