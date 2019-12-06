@@ -532,7 +532,7 @@ the screen, for example.
 
 **Business Activity Model**
 
-![](media/image5.jpg)
+![](https://raw.githubusercontent.com/wiktoria-n/Images/master/Business%20Activity%20Model%20(2).jpg?token=ANMPNR32URRRRIGUWJJQ3LS55IVSM)
 
 **Context Diagram**
 
@@ -544,7 +544,7 @@ the screen, for example.
 
 **Logical Data Structure**
 
-![](media/image7.jpg)
+![](https://raw.githubusercontent.com/wiktoria-n/Images/master/Untitled%20Diagram.jpg?token=ANMPNR26XTJGUXHT7QML7GS55IVYO)
 
 **6.1 Preliminary Schedule**
 
