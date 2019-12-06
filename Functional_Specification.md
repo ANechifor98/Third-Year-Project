@@ -209,8 +209,6 @@ dependent on satisfying these. It should provide an appropriate colour
 palette, contrasts and a screenwriter should be compatible with the app
 also.
 
-Various users will have different motivations to use the app.
-
 **2.3 Operational Scenarios**
 
 **2.3.1 Searching A Brand Name:**
