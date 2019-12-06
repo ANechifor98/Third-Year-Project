@@ -503,6 +503,10 @@ posts. Data such as comments, page information etc.
 
 Gathers analytical data on a particular brand or business.
 
+**Testing Widgets**
+
+Widgets are the basic building-blocks in Flutter. The entire app and UI design is composed of these. The widgets will have to be tested appropriately to ensure that they work and perform the way that they are expected to. A widget test is performed first to ensure a widget works in conjunction with user scenarios. During integration testing, then the entirety of the app is tested, ensuring all widgets perform correctly together without any side effects. 
+
 
 
 <h2>5. High-Level Design Diagrams</h2>
